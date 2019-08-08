@@ -1,5 +1,5 @@
 # WP-Uni
-A wordpress theme designed for Colleges and Universities. View the <a href="http://wpuni-edu.stackstaging.com/">Demo Site Here</a>
+A wordpress theme designed for Colleges and Universities. View the <a href="http://wpuni-edu.stackstaging.com/" target="_blank">Demo Site Here</a>
 
 Feel free to create new pages or edit ours as you feel. 
 
