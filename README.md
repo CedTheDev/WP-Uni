@@ -28,9 +28,9 @@ The theme is now installed
 
 ### Method 2
 
-Download wp-uni-theme.zip file
+Download wp-uni-theme.zip file and unzip it
 
-Use your favorite FTP tool to add the file to your wp-content/themes folder
+Use your favorite FTP tool to add the unzipped folder wp-uni-theme to your wp-content/themes folder
 
 Go back to the Wordpress admin Dashboard,
 
